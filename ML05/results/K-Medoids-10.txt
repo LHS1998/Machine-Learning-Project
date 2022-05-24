@@ -1,0 +1,428 @@
+==== Cluster 1 ===>
+	(1) Lifetime Lexical Variation in Social Media
+	(2) Solving Uncertain MDPs by Reusing State Information and Plans
+	(3) Multi-Organ Exchange: The Whole is Greater than the Sum of its Parts
+	(4) The Importance of Cognition and Affect for Artificially Intelligent Decision Makers
+	(5) Intelligent System for Urban Emergency Management During Large-scale Disaster
+	(6) The Computational Rise and Fall of Fairness
+	(7) Robust Bayesian Inverse Reinforcement Learning with Sparse Behavior Noise
+	(8) Dropout Training for Support Vector Machines
+	(9) Game-theoretic Resource Allocation for Protecting Large Public Events
+	(10) A Strategy-Proof Online Auction with Time Discounting Values
+	(11) Predicting Emotions in User-Generated Videos
+	(12) k-CoRating: Filling up Data to Obtain Privacy and Utility
+	(13) Stochastic Privacy: Model, Methods, and Experiments
+	(14) OurAgent'13: A Champion Adaptive Power Trading Agent
+	(15) Preference Elicitation and Interview Minimization in Stable Matchings
+	(16) Accurate Integration of Aerosol Predictions by Smoothing on a Manifold
+	(17) Modeling and mining spatiotemporal patterns of infection risk from heterogeneous data for active surveillance planning
+	(18) Can Agent Development Affect Developer's Strategy?
+	(19) Exponential Deepening A* for Real-Time Agent-Centered Search
+	(20) Congestion Games for V2G-Enabled EV Charging
+	(21) Accurate Household Occupant Behavior Modeling Based on Data Mining Techniques
+	(22) Capturing Difficulty Expressions in Student Online Q&A Discussions
+	(23) A Game-theoretic Analysis of Catalog Optimization
+	(24) Give a Hard Problem to a Diverse Team: Exploring Large Action Spaces
+	(25) SUIT: A Supervised User-Item based Topic model for Sentiment Analysis
+	(26) False-Name Bidding and Economic Efficiency in Combinatorial Auctions
+	(27) Wormhole Hamiltonian Monte Carlo
+	(28) Imitation Learning with Demonstrations and Shaping Rewards
+	(29) Robust Winners and Winner Determination Policies under Candidate Uncertainty
+	(30) Spatial Scan for Disease Mapping on a Mobile Population
+	(31) Decentralized Stochastic Planning with Anonymity in Interactions
+	(32) Optimal Decoupling in Linear Constraint Systems
+	(33) Ordering Effects and Belief Adjustment in the Use of Comparison Shopping Agents
+	(34) Scalable sparse covariance estimation via self-concordance
+	(35) SenticNet 3: A Common and Common-Sense Knowledge Base for Cognition-Driven Sentiment Analysis
+	(36) Avoiding Plagiarism in Markov Sequence Generation
+	(37) A Region-Based Model for Estimating Urban Air Pollution
+	(38) Item Bidding  for Combinatorial Public Projects
+	(39) How Long Will It Take? Accurate Prediction of Ontology Reasoning Performance
+	(40) Grandpa Hates Robots - Interaction Constraints for Planning in Inhabited Environments
+	(41) Sequential Click Prediction for Sponsored Search with Recurrent Neural Networks
+	(42) Prices Matter for the Parameterized Complexity of Shift Bribery
+	(43) Maximum Satisfiability using core-guided MaxSAT Resolution
+	(44) Mind the Gap: Machine Translation by Minimizing the Semantic Gap in Embedding Space
+	(45) Incentives for Truthful Information Elicitation of Continuous Signals
+	(46) Efficient buyer groups for prediction-of-use electricity tariffs
+	(47) Collaborative Models for Referring Expression Generation in Situated Dialogue
+	(48) Effective Management of Electric Vehicle Storage using Smart Charging
+	(49) Multiagent Metareasoning Through Organizational Design
+	(50) Signals in the Silence: Models of Implicit Feedback in a Recommender System for Crowdsourcing
+	(51) Predicting Postoperative Atrial Fibrillation from Independent ECG Components
+	(52) Betting Strategies, Market Selection, and the Wisdom of Crowds
+	(53) Designing Fast Absorbing Markov Chains
+	(54) A Scheduler for Actions with Iterated Durations
+	(55) Materials Discovery - Synthetic and Real World Datasets
+	(56) Resolving Pronouns by Leveraging English Resources
+	(57) Bagging by design (on the sub-optimality of bagging)
+	(58) Leveraging Fee-Based, Imperfect Advisors in Human-Agent Games of Trust
+	(59) GenEth: A General Ethical Dilemma Analyzer
+	(60) On the Structure of Synergies in Cooperative Games
+	(61) Learning Temporal Dynamics of Behavior Propagation in Social Networks
+	(62) Regret-based Optimization and Preference Elicitation for Stackelberg Security Games with Uncertainty
+	(63) Trust Prediction with Propagation and Similarity Regularization
+	(64) Diagnosing Analogue Linear Systems Using Dynamic Topological Reconfiguration
+	(65) Voting with Rank Dependent Scoring Rules
+	(66) Agent Behavior Prediction and Its Generalization Analysis
+	(67) Incentivizing High-quality Content from Heterogeneous Users: On the Existence of Nash Equilibrium
+	(68) Decentralized Multi-Agent Reinforcement Learning in Average-Reward Dynamic DCOPs
+	(69) Internally Stable Kidney Exchange
+	(70) Mechanism design for mobile geo-location advertising
+	(71) Regression Model and Privacy Preserved Learning by Matrix Completion
+	(72) A Multiarmed Bandit Incentive Mechanism for Crowdsourcing Demand Response in Smart Grids
+	(73) Pairwise-Covariance Linear Discriminant Analysis
+	(74) Saturated Path-Constrained MDP: Planning under Uncertainty and Deterministic Model-Checking Constraints
+	(75) Semantic Data Representation for Improving Tensor Factorization
+	(76) Mixing-time Regularized Policy Gradient
+	(77) The Fisher Market Game: Equilibrium and Welfare
+	(78) An Agent-Based Model Studying the Acquisition of a Language System of Logical Constructions
+	(79) Doubly Regularized Portfolio with Risk Minimization
+	(80) BCI Based Control Without Explicit Calibration
+	(81) Flexible and Scalable Partially Observable Planning with Linear Translations
+	(82) Prediction of Helpful Reviews using Emotions Extraction
+	(83) Large Scale Analogical Reasoning
+	(84) Worst-Case Solution Quality Analysis When Not Re-Expanding Nodes in Best-First Search
+	(85) Optimal and Efficient Stochastic Motion Planning in Partially-Known Environments
+	(86) Contraction and Revision over DL-Lite TBoxes
+
+
+==== Cluster 2 ===>
+	(1) R2: An Efficient MCMC Sampler for Probabilistic Programs
+	(2) Identifying Differences in Physician Communication Styles with a Log-Linear Transition Component Model
+	(3) Active Learning with Model Selection via Nested Cross-Validation
+	(4) Encoding Tree Sparsity in Multi-Task Learning: A Probabilistic Framework
+	(5) Leveraging Decomposed Trust in Probabilistic Matrix Factorization for Effective Recommendation
+	(6) Minimising Undesired Task Costs in Multi-robot Task Allocation Problems with In-Schedule Dependencies
+	(7) User Group Oriented Dynamics Exploration
+	(8) Lifting Relational MAP-LP Relaxations using Permutation Constraint Graphs
+	(9) Structured Possibilistic Planning using Decision Diagrams
+	(10) Chance-constrained Probabilistic Simple Temporal Problems
+	(11) A Framework for Task Planning in Heterogeneous Multi Robot Systems Based on Robot Capabilities
+	(12) Using Model-Based Diagnosis to Improve Software Testing
+	(13) Mechanism Design for Scheduling with Uncertain Execution Time.
+	(14) Generalizing Policy Advice with Gaussian Process Bandits for Dynamic Skill Improvement
+	(15) Qualitative Planning with Quantitative Constraints for Online Learning of Robotic Behaviours
+	(16) Regret-Based Multi-Agent Coordination with Uncertain Task Rewards
+	(17) Dynamic Multi-Agent Task Allocation with Spatial and Temporal Constraints
+	(18) Explanation-Based Approximate Weighted Model Counting for Probabilistic Logics
+	(19) HC-Search for Multi-Label Prediction: An Empirical Study
+	(20) Schedule-based Robotic Search for Multiple Residents in a Retirement Home Environment
+	(21) Tractability through Exchangeability: A New Perspective on Efficient Probabilistic Inference
+	(22) Feature-Cost Sensitive Learning with Submodular Trees of Classifiers
+	(23) GP-Localize: Persistent Mobile Robot Localization using Online Sparse Gaussian Process Observation Model
+	(24) Efficient codes for inverse dynamics during walking
+	(25) Elimination Ordering in Lifted First-Order Probabilistic Inference
+	(26) Online Multi-Task Learning via Sparse Dictionary Optimization
+	(27) Recommendation by Mining Multiple User Behaviors with Group Sparsity
+	(28) Proximal Iteratively Reweighted Algorithm with Multiple Splitting for Nonconvex Sparsity Optimization
+	(29) Role-aware Conformity Modeling and Analysis in Social Networks
+	(30) Sparse Learning for Stochastic Composite Optimization
+	(31) A Relevance-Based Compilation Method for Conformant Probabilistic Planning
+	(32) Oversubscription Planning: Complexity and Compilability
+	(33) Preprocessing for Propositional Model Counting
+	(34) A Constructive Argumentation Framework
+	(35) Binary Aggregation by Selection of the Most Representative Voter
+	(36) State Aggregation in Monte Carlo Tree Search
+	(37) Tree-Based On-line Reinforcement Learning
+	(38) Online Portfolio Selection with Group Sparsity
+
+
+==== Cluster 3 ===>
+	(1) Tailoring Local Search for Partial MaxSAT
+	(2) A Latent Variable Model for Discovering Bird Species Commonly Misidentified by Citizen Scientists
+	(3) PREGO: An Action Language for Belief-Based Cognitive Robotics in Continuous Domains
+	(4) ReLISH: Reliable Label Inference via Smoothness Hypothesis
+	(5) Robust Visual Robot Localization Across Seasons using Network Flows
+	(6) Symbolic Domain Predictive Control
+	(7) Programming by Example using Least General Generalizations
+	(8) Learning Compositional Sparse Models of Bimodal Percepts
+	(9) Dramatis: A Computational Model of Suspense
+	(10) Learning Latent Engagement Patterns of Students in Online Courses
+	(11) Instance-based Domain Adaptation in NLP via In-target-domain Logistic Approximation
+	(12) Combining Multiple Correlated Reward and Shaping Signals by Measuring Confidence
+	(13) Datalog Rewritability of Disjunctive Datalog Programs and its Applications to Ontology Reasoning
+	(14) A Characterization of the Single-Peaked Single-Crossing Domain
+	(15) Cost-Based Query Optimization via AI Planning
+	(16) Distribution-Aware Sampling and Weighted Model Counting for SAT
+	(17) Latent Domains Modeling for Domain Adaptation
+	(18) Improving Domain-independent Cloud-based Speech Recognition with Domain-dependent Phonetic Post-processing
+	(19) Experiments on Visual Information Extraction with the Faces of Wikipedia
+	(20) Double Configuration Checking in Stochastic Local Search for Satisfiability
+	(21) Adding Local Exploration to Greedy Best-First Search for Satisficing Planning
+	(22) Echo-State Conditional Restricted Boltzmann Machines
+	(23) Planning as Model Checking in Hybrid Domains
+	(24) Improving Context and Category Matching for Entity Search
+	(25) User Intent Identification from Online Discussions using a Joint Aspect-Action Topic Model
+	(26) Pathway Specification and Comparative Queries: A High Level Language with Petri Net Semantics
+	(27) Testable Implications of Linear Structural Equation Models
+	(28) locality preserving projection via multi-objective learning for domain adaptation
+	(29) Propagating Regular Counting Constraints
+	(30) Strategyproof exchange with multiple private endowments
+	(31) Adaptation Guided Case Base Maintenance
+	(32) Supervised Scoring with Monotone Multidimensional Splines
+	(33) Solving Zero-Sum Security Games in Discretized Spatio-Temporal Domains
+
+
+==== Cluster 4 ===>
+	(1) Influence Maximization with Novelty Decay in Social Networks
+	(2) The Complexity of Reasoning with FODD and GFODD
+	(3) Cached Iterative Weakening for Optimal Multi-Way Number Partitioning
+	(4) Modeling and Predicting Popularity Dynamics via Reinforced Poisson Process
+	(5) Lazy Defenders Are Almost Optimal Against Diligent Attackers
+	(6) Parallel Materialisation of Datalog Programs in Centralised, Main-Memory RDF Systems
+	(7) Recovering from Selection Bias in Causal and Statistical Inference
+	(8) Predicting the Hardness of Learning Bayesian Networks
+	(9) Fast and Accurate Influence Maximization on Large Networks with Pruned Monte-Carlo Simulations
+	(10) Fixing a Balanced Knockout Tournament
+	(11) Incomplete Preferences in Single-Peaked Electorates
+	(12) A Control Dichotomy for Pure Scoring Rules
+	(13) The Computational Complexity of Structure-Based Causality
+	(14) Placement of Loading Stations for Electric Vehicles: No Detours Necessary!
+	(15) Extracting Keyphrases from Research Papers using Citation Networks
+	(16) Automatic Construction and Natural-Language Description of Nonparametric Regression Models
+	(17) Linear-Time Filtering Algorithms for the Disjunctive Constraint
+	(18) A Simple Polynomial-Time Randomized Distributed Algorithm for Connected Row Convex Constraints
+	(19) Learning the Structure of Probabilistic Graphical Models with an Extended Cascading Indian Buffet Process
+	(20) Parametrized Families of Hard Planning Problems from Phase Transitions
+	(21) Backdoors to Planning
+	(22) Backdoors into Heterogeneous Classes of SAT and CSP
+	(23) Theory of Cooperation in Complex Social Networks
+	(24) Rounded Dynamic Programming for Tree-Structured Stochastic Network Design
+	(25) Beat the Cheater: Computing Game-Theoretic Strategies for When to Kick a Gambler out of a Casino
+	(26) Approximate Lifting Techniques for Belief Propagation
+	(27) Efficient Optimization for Autonomous Manipulation of Natural Objects
+	(28) Symbolic Model Checking Epistemic Strategy Logic
+	(29) Delivering Guaranteed Display Ads under Reach and Frequency Requirements
+	(30) Modal Ranking: A Uniquely Robust Voting Rule
+	(31) Dynamic Bayesian Probabilistic Matrix Factorization
+	(32) A Computational Method for (MSS,CoMSS) Partitioning
+	(33) Parallel Restarted Search
+	(34) MaxSAT Portfolio
+	(35) Simpler Bounded Suboptimal Search
+	(36) Finding the k-best Equivalence Classes of Bayesian Network Structures for Model Averaging
+	(37) DJAO: A Communication-Constrained DCOP algorithm that combines features of ADOPT and Action-GDL
+	(38) New Models for Competitive Contagion
+	(39) Approximate Equilibrium and Incentivizing Social Coordination
+	(40) Qualitative Reasoning with Modelica Models
+	(41) Tightening Bounds for Bayesian Network Structure Learning
+	(42) Bounding the Support Size in Extensive Form Games with Imperfect Information
+	(43) Exploring the Boundaries of Decidable Verification of Non-Terminating Golog Programs
+	(44) Using Timed Game Automata to Synthesize Execution Strategies for Simple Temporal Networks with Uncertainty
+	(45) On the Axiomatic Characterization of Runoff Voting Rules
+	(46) A Generalized Genetic Algorithm-Based Solver for Very Large Jigsaw Puzzles of Complex Types
+	(47) Learning Models of Unknown Events
+	(48) Non-Restarting SAT Solvers With Simple Preprocessing Efficiently Simulate Resolution
+	(49) Using Response Functions to Measure Strategy Strength
+	(50) Learning Scripts as Hidden Markov Models
+
+
+==== Cluster 5 ===>
+	(1) Online Classification Using a Voted RDA Method
+	(2) Type-based Exploration  for Satisficing Planning with Multiple Search Queues
+	(3) Quality-based Learning for Web Data Classification
+	(4) Efficient Object Detection via Adaptive Online Selection of Sensor-Array Elements
+	(5) Emotion Classification in Microblog Texts Using Class Sequential Rules
+	(6) Querying Inconsistent Description Logic Knowledge Bases under Preferred Repair Semantics
+	(7) Multi-Instance Learning with Distribution Change
+	(8) A Machine Learning Approach to Musically Meaningful Homogeneous Style Classification
+	(9) Fast Multi-Instance Multi-Label Learning
+	(10) Boosting SBDS for Partial Symmetry Breaking in Constraint Programming
+	(11) LASS: A Simple Assignment Model with Laplacian Smoothing
+	(12) Learning Goal-Oriented Hierarchical Tasks from Situated Interactive Instruction
+	(13) Active Learning Using Knowledge Transfer from Unlabeled Data
+	(14) Semantic Segmentation Using Multiple Graphs with Block-Diagonal Constraints
+	(15) On Dataless Hierarchical Text Classification
+	(16) The Role of Dimensionality Reduction in Linear Classification
+	(17) On Boosting Sparse Parities
+	(18) Learning with Augmented Class by Exploiting Unlabeled Data
+	(19) Locality-constrained Low-rank Coding for Image Classification
+	(20) Trading Multiple Indivisible Goods with Indifferences: Beyond Sönmez's Result
+	(21) Acquiring Commonsense Knowledge for Sentiment Analysis through Human Computation
+	(22) Optimistic Adaptive Submodularity at Scale
+	(23) A Knowledge Compilation Map for Ordered Real-Valued Decision Diagrams
+	(24) Online and Stochastic Learning with a Human Cognitive Bias
+	(25) Adaptive Singleton-based Consistencies
+	(26) Scheduling for Transfers in Pickup and Delivery Problems with Very Large Neighborhood Search
+	(27) Learning Instance Concepts from Multiple-Instance Data with Bags as Distributions
+	(28) Relational One-Class Classification: A Non-Parametric Approach
+	(29) Anytime Active Learning
+	(30) A Hybrid Grammar-Based Approach for Learning and Recognizing Natural Hand Gestures
+	(31) Multilabel Classification with Label Correlations and Missing Labels
+	(32) ARIA: Asymmetry Resistant Instance Alignment
+	(33) PAC Rank Elicitation through Adaptive Sampling of Stochastic Pairwise Preferences
+	(34) Adaptive Knowledge Transfer for Multiple Instance Learning in Image Classification
+	(35) Implementing GOLOG in Answer Set Programming
+	(36) Evaluating Trauma Patients: Addressing Missing Covariates Using Joint Optimization
+	(37) Exploiting Support Sets for Answer Set Programs with External Evaluations
+
+
+==== Cluster 6 ===>
+	(1) A Generalization of Probabilistic Serial to Randomized Social Choice
+	(2) Supervised Hashing for Image Retrieval via Image Representation Learning
+	(3) Reconsidering Mutual Information Based Feature Selection: A Statistical Significance View
+	(4) Cross-View Feature Learning for Scalable Social Image Analysis
+	(5) Semantic Graph Construction for Weakly-Supervised Image Parsing
+	(6) Scalable Complex Contract Negotiation With Structured Search and Agenda Management
+	(7) Online Social Spammer Detection
+	(8) Non-linear Label Ranking for Large-scale Prediction of Long-Term User Interests
+	(9) Simultaneous Cake Cutting
+	(10) A Parameterized Complexity Analysis of Generalized CP-Nets
+	(11) Online (Budgeted) Social Choice
+	(12) TopicMF: Simultaneously Exploiting Ratings and Reviews for Recommendation
+	(13) How Do Your Friends on Social Media Disclose Your Emotions?
+	(14) Learning Parametric Models for Social Infectivity in Multi-dimensional Hawkes Processes
+	(15) Sub-Selective Quantization for Large-Scale Image Search
+	(16) Generating Content for Scenario-Based Serious-Games using CrowdSourcing
+	(17) Labeling Complicated Objects: Multi-View Multi-Instance Multi-Label Learning
+	(18) Automatic Game Design via Mechanic Generation
+	(19) Pay-as-you-go OWL Query Answering Using a Triple Store
+	(20) Who also likes it? Generating the most Persuasive Social Explanations in Recommender Systems
+	(21) Semi-supervised Matrix Completion for Cross-Lingual Text Classification
+	(22) Social Planning: Achieving Goals by Altering Others' Mental States
+	(23) A Convex Formulation for Semi-supervised Multi-Label Feature Selection
+	(24) Combining Heterogenous Social and Geographical Information for Event Recommendation
+	(25) Direct Semantic Analysis for Social Image Classification
+	(26) On the Incompatibility of Efficiency and Strategyproofness in Randomized Social Choice
+	(27) Context-aware Collaborative Topic Regression with Social Matrix Factorization for Recommender Systems
+	(28) Extending Tournament Solutions
+	(29) A Joint Optimization Model for Image Summarization Based on Image Content and Tags
+	(30) Large-Scale Supervised Multimodal Hashing with Semantic Correlation Maximization
+	(31) On Computing Optimal Strategies in Open List Proportional Representation: the Two Parties Case
+	(32) Machine Translation with Real-time Web Search
+	(33) Envy-Free Division of Sellable Goods
+	(34) Partial Multi-View Clustering
+	(35) Cross-lingual Knowledge Validation Based Taxonomy Derivation from Heterogeneous Online Wikis
+	(36) Intra-view and Inter-view Supervised Correlation Analysis for Multi-view Feature Learning
+	(37) Uncorrelated Multi-view Fisher Discrimination Dictionary Learning For Recognition
+	(38) Abduction Framework for Repairing Incomplete  EL Ontologies:  Complexity Results and Algorithms
+	(39) Fused Feature Representation Discovery for High-dimensional and Sparse Data
+	(40) Towards Scalable Exploration of Diagnoses in an Ontology Stream
+	(41) Mapping Users Across Networks by Manifold Alignment on Hypergraph
+
+
+==== Cluster 7 ===>
+	(1) Discovering Better AAAI Keywords via Clustering with Crowd-sourced Constraints
+	(2) Fraudulent Support Telephone Number Identification Based on Co-occurrence Information on the Web
+	(3) Constructing Symbolic Representations for High-Level Planning
+	(4) Exact Subspace Clustering in Linear Time
+	(5) Adaptive Multi-Compositionality for Recursive Neural Models with Applications to Sentiment Analysis
+	(6) Small-variance Asymptotics for Dirichlet Process Mixtures of SVMs
+	(7) Forecasting Potential Diabetes Complications
+	(8) Knowledge Graph Embedding by Translating on Hyperplanes
+	(9) Fast consistency checking of very large real-world RCC-8 constraint  networks using graph partitioning
+	(10) Efficient Generalized Fused Lasso with Application to the Diagnosis of Alzheimer’s Disease
+	(11) Learning Deep Representations for Graph Clustering
+	(12) Learning Low-Rank Representations with Classwise Block-Diagonal Structure for Robust Face Recognition
+	(13) Reasoning on LTL on Finite Traces: Insensitivity to Infiniteness
+	(14) Power Iterated Color Refinement
+	(15) Spectral Thompson Sampling
+	(16) Confident Reasoning on Raven’s Progressive Matrices Tests
+	(17) Deep Modeling of Group Preferences for Group-based Recommendation
+	(18) Identifying Hierarchies for Fast Optimal Search
+	(19) Decomposing Activities of Daily Living to Discover Routine Clusters
+	(20) Equilibria in Epidemic Containment Games
+	(21) Using Narrative Function to Extract Qualitative Information from Natural Language Texts
+	(22) Where and Why Users "Check In"
+	(23) Solving the Traveling Tournament Problem by Packing Three-Vertex Paths
+	(24) Robust Multi-View Spectral Clustering via Low-Rank and Sparse Decomposition
+	(25) Deep Salience: Visual Salience Modeling via Deep Belief Propagation
+	(26) A Local Non-negative Pursuit Method for Intrinsic Manifold Structure Preservation
+	(27) Pre-trained Multi-view Word Embedding using Two-side Neural Network
+	(28) Learning Word Representation Considering Proximity and Ambiguity
+	(29) Novel Density-based Clustering Algorithms for Uncertain Data
+	(30) Elementary Loops Revisited
+	(31) On the Challenges of Physical Implementations of RBMs
+	(32) Manifold Spanning Graphs
+	(33) Towards Topological-transformation Robust Shape Comparison:  A Sparse Representation Based Manifold Embedding Approach
+	(34) Huffman Coding for Storing Non-uniformly Distributed Messages in Networks of Neural Cliques
+	(35) Robust Non-negative Dictionary Learning
+	(36) CoreCluster: A Degeneracy Based Graph Clustering Framework
+	(37) Q-intersection Algorithms for Constraint-Based Robust Parameter Estimation
+	(38) Joule Counting Correction for Electric Vehicles using Artificial Neural Nets
+	(39) Managing Change in Graph-structured Data Using Description Logics
+	(40) Learning Concept Embeddings for Query Expansion by Quantum Entropy Minimization
+
+
+==== Cluster 8 ===>
+	(1) Solving Imperfect Information Games Using Decomposition
+	(2) Biased Games
+	(3) Grounding Acoustic Echoes In Single View Geometry Estimation
+	(4) Robust Distance Learning in the Presence of Label Noise
+	(5) Evolutionary dynamics of learning algorithms over the sequence form
+	(6) Cross-Domain Metric Learning Based on Information Theory
+	(7) Regret Transfer and Parameter Optimization
+	(8) On Hair Recognition in the Wild by Machine
+	(9) Detecting information-dense texts in multiple news domains
+	(10) Diagram Understanding in Geometry Problems
+	(11) Automatic Synthesis of Geometry Problems for an Intelligent Tutoring System
+	(12) Modeling Subjective Experience-based Learning under Uncertainty and Frames
+	(13) Similarity-preserving binary signature for linear subspace
+	(14) Sparse Compositional Metric Learning
+	(15) Joint Morphological Generation and Syntactic Linearization
+	(16) Potential-Aware Imperfect-Recall Abstraction with Earth Mover's Distance in Imperfect-Information Games
+	(17) Learning Relative Similarity by Stochastic Dual Coordinate Ascent
+	(18) Finding Median Point-Set Using Earth Mover's Distance
+	(19) SOML: Sparse Online Metric Learning with Application to Image Retrieval
+	(20) An Adversarial Interpretation of Information-Theoretic Bounded Rationality
+	(21) Natural Temporal Difference Learning
+
+
+==== Cluster 9 ===>
+	(1) Kernelized Bayesian Transfer Learning
+	(2) "Source Free" Transfer Learning for Text Classification
+	(3) Semi-supervised Target Alignment via Label-Aware Base Kernels
+	(4) Sketch Recognition with Natural Correction and Editing
+	(5) Using The Matrix Ridge Approximation to Speedup Determinantal Point Processes Sampling Algorithms
+	(6) Exploiting Competition Relationship for Robust Visual Recognition
+	(7) A Strategy-Aware Technique for Learning Behaviors from Discrete Human Feedback
+	(8) A Spatially Sensitive Kernel to Predict Cognitive Performance from Short-Term Changes in Neural Structure
+	(9) On Detecting Nearly Structured Preference Profiles
+	(10) Sample-Adaptive Multiple Kernel Learning
+	(11) Ranking Tweets by Labeled and Collaboratively Selected Pairs with Transitive Closure
+	(12) Latent Low-Rank Bi-Directional Transfer Subspace Learning
+	(13) Monte Carlo Filtering using Kernel Embedding of Distributions
+	(14) Hybrid Heterogeneous Transfer Learning through Deep Learning
+	(15) Point-based POMDP solving with factored value function approximation
+	(16) Learning to Recognize Novel Objects in One Shot through Human-Robot Interactions in Natural Language Dialogues
+	(17) Supervised Transfer Sparse Coding
+
+
+==== Cluster 10 ===>
+	(1) Hybrid Singular Value Thresholding for Tensor Completion
+	(2) Locality Preserving Hashing
+	(3) Manifold Learning for Jointly Modeling Topic and Visualization
+	(4) Towards Understanding Unscripted Gesture and Language Input for Human-Robot Interactions
+	(5) Generalized Label Reduction for Merge-and-Shrink Heuristics
+	(6) Contextually Supervised Source Separation with Application to Energy Disaggregation
+	(7) A Tractable Approach to ABox Abduction over Description Logic Ontologies
+	(8) Low-Rank Tensor Completion with Discriminant Analysis for Action Classification
+	(9) Convex Co-embedding
+	(10) Computing Contingent Plans via Fully Observable Non-Deterministic Planning
+	(11) Increasing VCG revenue by decreasing the quality of items
+	(12) The Most Uncreative Examinee: A First Step toward Wide Coverage Natural Language Math Problem Solving
+	(13) Capturing Relational Schemas and Functional Dependencies in RDFS
+	(14) A Support-Based Algorithm for the Bi-Objective Pareto Constraint
+	(15) Unsupervised Alignment of Natural Language Instructions with Video Segments
+	(16) Smarter Than You Think: Acquiring Comparative Commonsense from the Web
+	(17) A reasoner for the RCC-5 and RCC-8 calculi extended with constants
+	(18) A spatio-temporal pattern mining algorithm to identify objects in a continuous field: A global oceanography perspective
+	(19) Gradient Descent Method with Proximal Average for Nonconvex and Composite Regularization
+	(20) Video Recovery via Low-Rank Tensor Completion with Spatio-Temporal Consistency
+	(21) Globally and Locally Consistent Unsupervised Projection
+	(22) Optimal Neighborhood Preserving Visualization by Maximum Satisfiability
+	(23) Feature Selection at the Discrete Limit
+	(24) Computing General First-order Parallel and Prioritized Circumscription
+	(25) Data Quality in Ontology-based Data Access: The Case of Consistency
+	(26) SLE: Signed Laplacian Embedding for Supervised Dimension Reduction
+	(27) Solving the Inferential Frame Problem in the General Game Description Language
+	(28) A Propagator Design Framework for Constraints over Sequences
+	(29) Local-To-Global Consistency Implies Tractability of Abduction
+	(30) Generalized Higher-Order Tensor Decomposition via Parallel ADMM
+	(31) Non-convex feature learning via $\ell_{p,\infty}$ operator
+	(32) Coactive Learning for Locally Optimal Problem Solving
+	(33) Relaxation Search: a Simple Way of Managing Optional Clauses
+	(34) Compact Aspect Embedding For Diversified Query Expansion
+	(35) Zero Pronoun Resolution as Ranking
+
+

@@ -1,0 +1,116 @@
+% =============================================================
+%  - Version: 1.00
+% -------------------------------------------------------------
+%    Most recent change: 2021.7.21
+% =============================================================
+
+%
+% =============================================================
+%  - Architecture
+% -------------------------------------------------------------
+\documentclass[AutoFakeBold, AutoFakeSlant, 10pt, aspectratio=169]{beamer}
+% =============================================================
+
+% =============================================================
+%  - Chinese Support
+% -------------------------------------------------------------
+\usepackage{xeCJK, fontspec, xunicode, xltxtra}  
+% \setmainfont{Courier New} % Pycharm Style
+% \setmainfont{CMU Bright} % Beamer Style
+% \setCJKmainfont{LXGWWenKaiMono-Regular}
+\setCJKmainfont{STKaiti}
+\usefonttheme[onlymath]{serif} 
+\setlength{\parindent}{2em}
+
+\usepackage{indentfirst}  % 首行缩进
+{}\setlength{\parindent}{2em}
+% =============================================================
+
+% =============================================================
+%  - Utilities
+% -------------------------------------------------------------
+% Table of Contents
+%\setcounter{tocdepth}{3}  % 显示深度
+%\setcounter{secnumdepth}{1}  % 编号深度
+
+% Figures
+\usepackage{graphicx}
+
+% Tables
+\usepackage{longtable}
+\usepackage{booktabs}
+
+% Math
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{extarrows}
+\usepackage{mathrsfs}
+\usepackage{dsfont}
+%\renewcommand\theequation{\thesection.\arabic{equation}}
+\numberwithin{equation}{section}  % 方程编号加入章节号
+\DeclareMathOperator{\cov}{cov}
+\DeclareMathOperator{\var}{Var}
+
+% Frames
+\usepackage{framed}
+\usepackage[skins,most,theorems]{tcolorbox}
+
+% Parallel Content
+\usepackage{paracol}
+\usepackage{graphicx,pgf}
+\newcommand*{\parallelogramm}{%
+  \rlap{\rotatebox{-30}{\rule[.05ex]{.4pt}{.77em}}}%
+  \kern.04em%
+  \rlap{\kern.36em\raisebox{0.649519052835em}{\rule{.6em}{.4pt}}}%
+  \rule{.6em}{.4pt}\kern-.04em%
+  \rotatebox{-30}{\rule[.05ex]{.4pt}{.77em}}}
+
+% Hyperlink
+% \usepackage{hyperref}
+% \hypersetup{pdftex,colorlinks=true,allcolors=blue}
+% \usepackage{hypcap}
+% \usepackage{hyperref}
+% \hypersetup{CJKbookmarks=true, colorlinks=true, citecolor=blue, linkcolor=blue, urlcolor=blue, breaklinks=true}
+% =============================================================
+
+% =============================================================
+%  - Customize Layout
+% -------------------------------------------------------------
+% Colors
+\usepackage{color}
+\definecolor{important}{RGB}{207,54,108}  % 红色
+%\definecolor{ans}{RGB}{0,111,255}  % Beamer 主题蓝色
+\definecolor{ans}{RGB}{123,150,192}  % 蓝灰色
+\definecolor{mark}{RGB}{125,213,195}  % 灰绿色
+\definecolor{highlight}{RGB}{253,199,30}  % 橙黄色
+\definecolor{qes}{RGB}{140,84,208}  % 紫色
+
+% Spacing between lines
+\usepackage{setspace}
+\linespread{1.4}
+% =============================================================
+
+% =============================================================
+%  - My Colorboxes
+% -------------------------------------------------------------
+% markdown inline codeblock
+\definecolor{frame}{RGB}{231,234,237}
+\definecolor{back}{RGB}{243,244,244}
+\newtcbox{\code}{enhanced,nobeforeafter,tcbox raise base,boxrule=0.4pt,top=0.5mm,bottom=0mm,
+  right=0mm,left=0.5mm,arc=1pt,boxsep=2pt,before upper={\vphantom{dlg}},
+  colframe=frame,coltext=frame!35!black,colback=back, fontupper=\ttfamily}  % 横向
+\MakeRobust\code  % 使可用于标题
+% 使 hyperref 可生成标题含该 box 的目录
+\ifdefined\pdfstringdefDisableCommands
+  \pdfstringdefDisableCommands{\def\mylib#1{'#1'}}
+\fi
+
+
+
+
+
+
+
+
+
+
