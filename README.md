@@ -7,6 +7,6 @@
 
 传送门:
 
-一位热心大佬的实验[项目仓库](https://github.com/W-caner/ML_class)
+- 一位热心大佬的实验[项目仓库](https://github.com/W-caner/ML_class)
 
-有别的同学开源代码后持续更新链接
+- 有别的同学开源代码后持续更新链接
